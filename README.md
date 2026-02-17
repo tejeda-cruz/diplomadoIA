@@ -270,7 +270,7 @@ Para más información sobre esta licencia, visita: https://creativecommons.org/
 
 - **23/ene/2026** - Módulo 1 primera parte (Introducción [1 hr]; Ejercicios de Visualización [2 hrs])
 - **30/ene/2026** - Módulo 1 primera parte (Limpieza y Preparación de Datos [1 hr])
-- **[Próximamente]** - Módulo 1 segunda parte (Ejercicios Prácticos e Integración [2 hrs]; Validación y Evaluación de Modelos [1 hr]; Ejercicios Prácticos e Integración [1 hr])
+- **15/feb/2026** - Módulo 1 segunda parte (Ejercicios Prácticos e Integración [2 hrs]; Validación y Evaluación de Modelos [1 hr]; Ejercicios Prácticos e Integración [1 hr])
 
 ---
 
